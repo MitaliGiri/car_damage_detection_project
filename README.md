@@ -15,3 +15,4 @@ This project involves detecting car damage using YOLOv8. The damage types includ
 1. Install dependencies:
    ```bash
    pip install yolov8 opencv-python numpy matplotlib pandas
+# car_damage_detection_project
