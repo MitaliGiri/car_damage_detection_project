@@ -8,7 +8,7 @@ def main():
     # Train the model
     model.train(
         data='data1.yaml',          # Path to the dataset YAML file
-        epochs=1,                 # Number of training epochs
+        epochs=20,                 # Number of training epochs
         imgsz=640,                 # Image size
         optimizer='SGD',           # Optimizer (e.g., SGD, Adam)
         lr0=0.01,                  # Initial learning rate
